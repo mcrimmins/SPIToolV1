@@ -1,0 +1,10 @@
+name: spitool_test
+title: SPItool_test
+account: uaclimateextension
+server: shinyapps.io
+appId: 205735
+bundleId: 956514
+url: https://uaclimateextension.shinyapps.io/spitool_test/
+when: 1503864979.93738
+asMultiple: FALSE
+asStatic: FALSE
